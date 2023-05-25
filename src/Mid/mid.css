@@ -1,0 +1,32 @@
+body{
+    background-color: #C147E9;
+}
+.div{
+    background-color: rgb(229, 184, 244);
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 20px;
+    width: 60%;
+    display: block;
+    padding: 20px;
+    border-radius: 20px;
+}
+.div2{
+    display: flex;
+    margin-top: 0px;
+    text-align: center;
+    align-items: center;
+}
+.mod2{
+    
+    width: 300px;
+    
+    margin-left: 19px;
+    
+}
+
+.p{
+    font-weight: 500;
+    font-size: 24px;
+    font-family: sans-serif;
+}
